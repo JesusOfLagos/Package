@@ -1,0 +1,22 @@
+{
+  "name": "jesus",
+  "version": "1.0.0",
+  "description": "a package to help developers",
+  "main": "app.ts",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "package"
+  },
+  "keywords": [
+    "help"
+  ],
+  "author": "Jesus Akanle",
+  "license": "MIT"
+}
